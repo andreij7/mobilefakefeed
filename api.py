@@ -10,13 +10,11 @@ app = falcon.API()
 # Resources are represented by long-lived class instances
 rochesterFeed = FeedsResource('rochester')
 usatFeed = FeedsResource('usat')
-brevardFeed = FeedsResource('brevard')
 
 
 # things will handle all requests to the '/things' URL path
 app.add_route('/rochester/', rochesterFeed)
 app.add_route('/usat/', usatFeed)
-app.add_route('/brevard/', brevardFeed)
 #app.add_route('/clean/', cleanup)
 
 #instructions
@@ -36,5 +34,5 @@ if(!isImage) {
 
 # 4. start the app in an emulator and browse the app.
 
-# 5. copy the json files add it to the raw directory in the app. copy the contents of filefeed.txt and add it to TestMyApplication  
+# 5. copy the json files add it to the raw directory in the app. copy the contents of filefeed.txt and add it to TestMyApplication
 
