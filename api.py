@@ -21,7 +21,7 @@ app.add_route('/usat/', usatFeed)
 
 # 1. pip install falcon
 
-# 2. in the HurlStack.java file make sure this is uncommented.
+# 2. in the HurlStack.java file make sure this is uncommented. (or add it line 89)
 '''
 boolean isImage = url.contains(".jpg") || url.contains("thumb") || url.contains(".png") || url.contains(".jpeg");
 
