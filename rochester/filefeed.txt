@@ -1,0 +1,42 @@
+fileFeeds.add(new FileFeed("/mobile/v4/breakingnews/47/mobile?", com.gannett.android.news.test.R.raw.mobilev4breakingnews47mobile));
+fileFeeds.add(new FileFeed("/ping/v1/most-popular/47?", com.gannett.android.news.test.R.raw.pingv1mostpopular47));
+fileFeeds.add(new FileFeed("/mobile/v4/assets/2869015?", com.gannett.android.news.test.R.raw.mobilev4assets2869015));
+fileFeeds.add(new FileFeed("/mobile/v4/fronts/1/vrstories_mobile?", com.gannett.android.news.test.R.raw.mobilev4fronts1vrstoriesmobile));
+fileFeeds.add(new FileFeed("/mobile/v4/fronts/1/Sports_mobile?", com.gannett.android.news.test.R.raw.mobilev4fronts1sportsmobile));
+fileFeeds.add(new FileFeed("/internal/weather/V5/accuweather/data/location/329674?LanguageId=1&api_key=7zh2888dfxtnttmpkq8wmj78", com.gannett.android.news.test.R.raw.internalweatherv5accuweatherdatalocation329674languageid1));
+fileFeeds.add(new FileFeed("com/mobile/v4/fronts/47/Roc_Home_Phone?", com.gannett.android.news.test.R.raw.mobilev4fronts47rochomephone));
+fileFeeds.add(new FileFeed("com/mobile/v4/assets/84249932?", com.gannett.android.news.test.R.raw.mobilev4assets84249932));
+fileFeeds.add(new FileFeed("/taxonomy/v4/navigation/schema/id/2955?api_key=9mhzyzbcj3kfrtqvnf55w8rx&api_key=9mhzyzbcj3kfrtqvnf55w8rx", com.gannett.android.news.test.R.raw.taxonomyv4navigationschemaid2955));
+fileFeeds.add(new FileFeed("com/mobile/v4/fronts/145/home_phone?", com.gannett.android.news.test.R.raw.mobilev4fronts145homephone));
+//http://api.gannett-cdn.com/internal/SportsNative/MetaData.svc/leagues?api_key=vesdt5etjcmp8k8evfphsy6v
+fileFeeds.add(new FileFeed("/internal/SportsNative/MetaData.svc/leagues?api_key=vesdt5etjcmp8k8evfphsy6v", com.gannett.android.news.test.R.raw.internalsportsnativemetadatasvcleagues));
+//http://api.gannett-cdn.com/internal/SportsNative/Scores.svc/nba?api_key=vesdt5etjcmp8k8evfphsy6v&api_key=vesdt5etjcmp8k8evfphsy6v
+fileFeeds.add(new FileFeed("/internal/SportsNative/Scores.svc/nba?api_key=vesdt5etjcmp8k8evfphsy6v&api_key=vesdt5etjcmp8k8evfphsy6v", com.gannett.android.news.test.R.raw.internalsportsnativescoressvcnba));
+//http://api.gannett-cdn.com/mobile/v4/fronts/47/Roc_News_Investigations_Phone?consumer=android&api_key=d6e40e3fb91cef10db34ce8647585522
+fileFeeds.add(new FileFeed("com/mobile/v4/fronts/47/Roc_News_Investigations_Phone?", com.gannett.android.news.test.R.raw.mobilev4fronts47rocnewsinvestigationsphone));
+//http://api.gannett-cdn.com/mobile/v4/fronts/47/Roc_News_VoteUp_Phone?consumer=android&api_key=d6e40e3fb91cef10db34ce8647585522
+fileFeeds.add(new FileFeed("com/mobile/v4/fronts/47/Roc_News_VoteUp_Phone?", com.gannett.android.news.test.R.raw.mobilev4fronts47rocnewsvoteupphone));
+//http://api.gannett-cdn.com/mobile/v4/fronts/47/Roc_News_Investigations_Tablet?consumer=android&api_key=d6e40e3fb91cef10db34ce8647585522
+fileFeeds.add(new FileFeed("com/mobile/v4/fronts/47/Roc_News_Investigations_Tablet?", com.gannett.android.news.test.R.raw.mobilev4fronts47rocnewsinvestigationstablet));
+
+//http://api.gannett-cdn.com/mobile/v4/fronts/47/Roc_News_VoteUp_Tablet?consumer=android&api_key=d6e40e3fb91cef10db34ce8647585522
+fileFeeds.add(new FileFeed("com/mobile/v4/fronts/47/Roc_News_VoteUp_Tablet?", com.gannett.android.news.test.R.raw.mobilev4fronts47rocnewsvoteuptablet));
+
+//http://api.gannett-cdn.com/mobile/v4/fronts/47/Roc_life_whatsuproc_tablet?consumer=android&api_key=d6e40e3fb91cef10db34ce8647585522
+fileFeeds.add(new FileFeed("com/mobile/v4/fronts/47/Roc_life_whatsuproc_tablet?", com.gannett.android.news.test.R.raw.mobilev4fronts47roclifewhatsuproctablet));
+
+//http://api.gannett-cdn.com/mobile/v4/breakingnews/47/ipad?consumer=android&api_key=d6e40e3fb91cef10db34ce8647585522
+fileFeeds.add(new FileFeed("com/mobile/v4/breakingnews/47/ipad?", com.gannett.android.news.test.R.raw.mobilev4breakingnews47ipad));
+
+//http://api.gannett-cdn.com/mobile/v4/fronts/1/nation_now_tablet?consumer=android&api_key=d6e40e3fb91cef10db34ce8647585522
+fileFeeds.add(new FileFeed("com/mobile/v4/fronts/1/nation_now_tablet?", com.gannett.android.news.test.R.raw.mobilev4fronts1nationnowtablet));
+
+//http://api.gannett-cdn.com/mobile/v4/fronts/47/Roc_Home_Tablet?consumer=android&api_key=d6e40e3fb91cef10db34ce8647585522
+fileFeeds.add(new FileFeed("com/mobile/v4/fronts/47/Roc_Home_Tablet?", com.gannett.android.news.test.R.raw.mobilev4fronts47rochometablet));
+
+//http://api.gannett-cdn.com/mobile/v4/fronts/1/vrstories_tablet?consumer=android&api_key=d6e40e3fb91cef10db34ce8647585522
+fileFeeds.add(new FileFeed("com/mobile/v4/fronts/1/vrstories_tablet?", com.gannett.android.news.test.R.raw.mobilev4fronts1vrstoriestablet));
+
+//http://api.gannett-cdn.com/mobile/v4/recommendations/84f510c8463caca5?consumer=android&api_key=d6e40e3fb91cef10db34ce8647585522
+fileFeeds.add(new FileFeed("com/mobile/v4/recommendations/84f510c8463caca5?", com.gannett.android.news.test.R.raw.mobilev4recommendations84f510c8463caca5));
+

@@ -1,0 +1,15 @@
+//http://api.gannett-cdn.com/mobile/v4/fronts/1/home_mobile?consumer=android&api_key=gzet5e83h4nj7tzkhmee7c8z
+fileFeeds.add(new FileFeed("com/mobile/v4/fronts/1/home_mobile?", com.gannett.android.news.test.R.raw.mobilev4fronts1homemobile));
+
+//http://api.gannett-cdn.com/mobile/v4/breakingnews/1/mobile?consumer=android&api_key=gzet5e83h4nj7tzkhmee7c8z
+fileFeeds.add(new FileFeed("com/mobile/v4/breakingnews/1/mobile?", com.gannett.android.news.test.R.raw.mobilev4breakingnews1mobile));
+
+//http://api.gannett-cdn.com/ping/v1/most-popular/1?consumer=android&api_key=vp535c7g3m7tr3wzj8vehbaz
+fileFeeds.add(new FileFeed("com/ping/v1/most-popular/1?", com.gannett.android.news.test.R.raw.pingv1mostpopular1));
+
+//http://api.gannett-cdn.com/mobile/v4/fronts/1/news_mobile?consumer=android&api_key=gzet5e83h4nj7tzkhmee7c8z
+fileFeeds.add(new FileFeed("com/mobile/v4/fronts/1/news_mobile?", com.gannett.android.news.test.R.raw.mobilev4fronts1newsmobile));
+
+//http://api.gannett-cdn.com/mobile/v4/fronts/1/news_nation_mobile?consumer=android&api_key=gzet5e83h4nj7tzkhmee7c8z
+fileFeeds.add(new FileFeed("com/mobile/v4/fronts/1/news_nation_mobile?", com.gannett.android.news.test.R.raw.mobilev4fronts1newsnationmobile));
+
